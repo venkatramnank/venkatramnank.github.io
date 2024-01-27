@@ -1,6 +1,10 @@
 ## Machine Learning | Computer Vision
 
 ### Education
-Computer Science, Master of Science, Oregon State University
+
+M.S., Computer Science | Oregon State University, Corvallis, OR, USA (September 2022 - Present)
+B.Tech., Electronics and Communication | PES University, Bangalore, India (June 2022)
+
+### 
 
 
