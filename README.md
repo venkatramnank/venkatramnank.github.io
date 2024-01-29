@@ -33,6 +33,7 @@ engineering capabilities, with a keen interest in opportunities within machine l
 
 <details>
 <summary>Other Skills (things I have **not** used extensively as above)</summary>
+
 - C++
 
 - MLFlow
@@ -43,7 +44,6 @@ engineering capabilities, with a keen interest in opportunities within machine l
 
 - OpenAI Gym
 
-- 
 
 </details>
 
@@ -54,4 +54,5 @@ engineering capabilities, with a keen interest in opportunities within machine l
 - Robotics (ROS)
 
 ### Experience
+
 
