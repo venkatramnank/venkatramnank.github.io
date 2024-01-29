@@ -28,6 +28,7 @@ engineering capabilities, with a keen interest in opportunities within machine l
 
 <details>
 <summary>Other Skills (things I have **not** used extensively as above)</summary>
+  
   - C++
   - Docker
   - MLFlow
@@ -35,6 +36,7 @@ engineering capabilities, with a keen interest in opportunities within machine l
   - Unity
   - OpenAI Gym
   - Postgres
+    
 </details>
 
 
