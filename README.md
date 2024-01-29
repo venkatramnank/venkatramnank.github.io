@@ -21,7 +21,7 @@ engineering capabilities, with a keen interest in opportunities within machine l
   <img width="12" />
   <img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original.svg" height="40" alt="docker logo"  />
   <img width="12" />
-  <img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original.svg" height="40" alt="postgres logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" />
   <img width="12" />
   <img src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg" height="40" alt="linux logo"  />
   <img width="12" />
