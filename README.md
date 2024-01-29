@@ -1,4 +1,4 @@
-                                                                                            ## Hi, I am Venkat !!
+## Hi, I am Venkat !!
 
 I am a passionate graduate student seeking a dynamic role in a forward‑thinking company, committed to applying programming
 and machine learning skills to advance innovations in computer vision. Striving to contribute clean code and robust software
