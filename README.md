@@ -54,7 +54,8 @@ engineering capabilities, with a keen interest in opportunities within machine l
 ### Experience
 
 **Graduate Research Assistant @ Oregon State University (_Sep 2022 - Present_)**
-- Developed computer vision‑based trajectory prediction algorithms, achieving 92% accuracy in detecting physics violations across diverse scenarios.
+- Developed computer vision‑based trajectory prediction algorithms, achieving 92% accuracy in detecting physics violations across diverse scenarios for the Passive Violation Of Expectation challenge of DARPA Machine Common Sense Challenge.
+   [![MCS](image_url)](https://www.machinecommonsense.com/)
 - Currently working on Sim to real experiments and point cloud based object detection (3D Vision). Working on TR3D (Point cloud 3D object detection) for custom data (for all rotations across the axes).
 
   <details>
