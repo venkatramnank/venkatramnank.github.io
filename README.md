@@ -91,3 +91,12 @@ achieve an impressive 80 % accuracy.
 - Delivered functioning turtlebot that mapped areas of Nokia Bangalore
 - Team Awarded ”Best Student Bell Labs Research project” at 2021 Nokia University Conclave
 
+<br>
+
+## Academic Projects
+
+**Learning‑Based Motion Planning for Arbitrary Locomotive Systems**
+A novel motion planning framework for general locomoting
+systems, beyond car‑like robots, integrating dynamically feasible motion primitives using Deep Deterministic Policy Gradients
+(DDPG) reinforcement learning and an artificial potential field for accurate learning guidance
+<img src="./assets/img/rob_proj.png" alt="Image 1" style="width: 45%; margin-right: 5px;">
