@@ -18,4 +18,12 @@ engineering capabilities, with a keen interest in opportunities within machine l
   <img src="https://github.com/devicons/devicon/blob/master/icons/pytorch/pytorch-original.svg" height="40" alt="bash logo"  />
   <img width="12" />
   <img src="https://github.com/devicons/devicon/blob/master/icons/bash/bash-original.svg" height="40" alt="bash logo"  />
+  <img width="12" />
+  <img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original.svg" height="40" alt="bash logo"  />
+  <img width="12" />
+  <img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original.svg" height="40" alt="bash logo"  />
+  <img width="12" />
+  <img src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg" height="40" alt="bash logo"  />
+  <img width="12" />
+  <img src="https://github.com/devicons/devicon/blob/master/icons/opencv/opencv-original.svg" height="40" alt="bash logo"  />
 </div>
