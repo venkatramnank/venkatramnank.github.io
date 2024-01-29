@@ -26,14 +26,15 @@ engineering capabilities, with a keen interest in opportunities within machine l
   <img src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg" height="40" alt="bash logo"  />
   <img width="12" />
   <img src="https://github.com/devicons/devicon/blob/master/icons/opencv/opencv-original.svg" height="40" alt="bash logo"  />
-  <img width="12" />
-  <img src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg" height="40" alt="bash logo"  />
+
 </div>
 
 <details>
-<summary>Other Skills (things I have **not** used extensively)</summary>
-
-
+<summary>Other Skills (things I have **not** used extensively as above)</summary>
+-  C++
+-  ML Flow
+-  Spark
+-  GCP  
 </details>
 
 ### Machine Learning (research) interests
