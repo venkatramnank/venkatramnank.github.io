@@ -26,14 +26,24 @@ engineering capabilities, with a keen interest in opportunities within machine l
   <img src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg" height="40" alt="bash logo"  />
   <img width="12" />
   <img src="https://github.com/devicons/devicon/blob/master/icons/opencv/opencv-original.svg" height="40" alt="bash logo"  />
+  <img width="12" />
+  <img src="https://github.com/devicons/devicon/blob/master/icons/tensorflow/tensorflow-original.svg" height="40" alt="bash logo"  />
 
 </div>
 
 <details>
 <summary>Other Skills (things I have **not** used extensively as above)</summary>
 - C++
-- MlFlow
--
+
+- MLFlow
+
+- ROS
+
+- Unity
+
+- OpenAI Gym
+
+- 
 
 </details>
 
