@@ -5,8 +5,11 @@ and machine learning skills to advance innovations in computer vision. Striving 
 engineering capabilities, with a keen interest in opportunities within machine learning, computer vision, or data science.
 
 ### Education
-- M.S., Computer Science | Oregon State University | _Sep 2022_ to _present_							       		  		
-- B.Tech., Electronics and Communication | PES University | _June 2022_
+| Degree                          | University                                     | Duration         |
+|---------------------------------|------------------------------------------------|------------------|
+| M.S., Computer Science          | Oregon State University                       | Sep 2022 - present |
+| B.Tech., Electronics and Communication | PES University                          | June 2022        |
+
 
 ### Skills
 
