@@ -5,6 +5,7 @@ and machine learning skills to advance innovations in computer vision. Striving 
 engineering capabilities, with a keen interest in opportunities within machine learning, computer vision, or data science.
 
 ### Education
+
 | Degree                          | University                                     | Duration         |
 |---------------------------------|------------------------------------------------|------------------|
 | M.S., Computer Science          | Oregon State University                       | Sep 2022 - present |
@@ -40,13 +41,18 @@ engineering capabilities, with a keen interest in opportunities within machine l
 </details>
 
 
+
+
 ### Machine Learning (research) interests
+
 - Computer Vision (3D / 2D)
 - Deep learning
 - Reinforcement Learning
 - Robotics (ROS)
 
+
 ### Experience
+
 **Graduate Research Assistant @ Oregon State University (_Sep 2022 - Present_)**
 - Developed computer vision‑based trajectory prediction algorithms, achieving 92% accuracy in detecting physics violations
 across diverse scenarios.
