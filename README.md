@@ -74,3 +74,11 @@ engineering capabilities, with a keen interest in opportunities within machine l
     
   </details>
 
+**<a><img src="./assets/img/nokia.png" alt="nookia" width="20"></a> Robotics intern @ Nokia Bell Labs (NJ) (_Jun 2023 - Aug 2023_)**
+- Implemented a state‑of‑the‑art machine vision anomaly detection system, achieving a 91.3% Pixel ROC score by customizing
+PaDiM and PatchCore models for a custom PCB dataset, ensuring precise anomaly detection. This was a part of the FlexForce
+Digital Twin and Metaverse based system.
+- Developed an end‑to‑end pipeline for deploying an Anomaly Detection (AD) overseer app for Nokia Chennai Factory.
+Successfully deployed the AD App in real time.
+- Collaborated on efficient optimization strategies to improve PaDiM’s performance on the custom PCB dataset. 
+
