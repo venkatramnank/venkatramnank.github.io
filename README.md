@@ -31,17 +31,8 @@ engineering capabilities, with a keen interest in opportunities within machine l
 </div>
 
 <details>
-<summary>Other Skills</summary>
+<summary>Other Skills (things I have **not** used extensively)</summary>
 
-### Section 1
-- Item 1
-- Item 2
-- Item 3
-
-### Section 2
-- Item 4
-- Item 5
-- Item 6
 
 </details>
 
