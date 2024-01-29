@@ -27,16 +27,16 @@ engineering capabilities, with a keen interest in opportunities within machine l
 
 </div>
 
-<details>
+<details markdown="1">
 <summary>Other Skills (things I have **not** used extensively as above)</summary>
-  
-  - C++
-  - Docker
-  - MLFlow
-  - ROS
-  - Unity
-  - OpenAI Gym
-  - Postgres
+
+- C++
+- Docker
+- MLFlow
+- ROS
+- Unity
+- OpenAI Gym
+- Postgres
     
 </details>
 
