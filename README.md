@@ -28,14 +28,15 @@ engineering capabilities, with a keen interest in opportunities within machine l
 
 <details>
 <summary>Other Skills (things I have **not** used extensively as above)</summary>
-- C++
-- Docker
-- MLFlow
-- ROS
-- Unity
-- OpenAI Gym
-- Postgres
+  - C++
+  - Docker
+  - MLFlow
+  - ROS
+  - Unity
+  - OpenAI Gym
+  - Postgres
 </details>
+
 
 ### Machine Learning (research) interests
 - Computer Vision (3D / 2D)
