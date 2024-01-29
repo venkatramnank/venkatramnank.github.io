@@ -58,24 +58,23 @@ engineering capabilities, with a keen interest in opportunities within machine l
 ## Experience
 
 **<a><img src="./assets/img/osu.png" alt="OSU" width="20"></a> Graduate Research Assistant @ Oregon State University (_Sep 2022 - Present_)**
-<details markdown="1">
-  <summary>Experience</summary>
-    - Developed computer vision‑based trajectory prediction algorithms, achieving 92% accuracy in detecting physics violations across diverse scenarios for the Passive Violation Of Expectation challenge of
-    <a href="https://www.machinecommonsense.com/">
-    <img src="./assets/img/mcs.png" alt="MCS" width="20">
-  </a> DARPA Machine Common Sense Challenge.
-     
-    - Currently working on Sim to real experiments and point cloud based object detection (3D Vision). Working on TR3D (Point cloud 3D object detection) for custom data (for all rotations across the axes).
-  
-      <details markdown="1">
-      <summary>Experiments</summary>
-      
+
+- Developed computer vision‑based trajectory prediction algorithms, achieving 92% accuracy in detecting physics violations across diverse scenarios for the Passive Violation Of Expectation challenge of
+<a href="https://www.machinecommonsense.com/">
+<img src="./assets/img/mcs.png" alt="MCS" width="20">
+</a> DARPA Machine Common Sense Challenge.
+ 
+- Currently working on Sim to real experiments and point cloud based object detection (3D Vision). Working on TR3D (Point cloud 3D object detection) for custom data (for all rotations across the axes).
+
+  <details markdown="1">
+    <summary>Experiments</summary>
+    
       - Research focused on capturing inter‑object and object‑environment interactions at long ranges, exploring 3D and point cloud versions.
       - Leveraged the Region Proposal Interaction Network to enhance model performance, yielding remarkable results on our custom MCS DARPA dataset
       - Used Motion Indeterminacy diffusion model for diverse trajectory prediction for intuitive physics experiments.
-        
-      </details>
-</details>
+    
+  </details>
+
 
 **<a><img src="./assets/img/nokia.png" alt="nookia" width="20"></a> Robotics intern @ Nokia Bell Labs (NJ) (_Jun 2023 - Aug 2023_)**
 - Implemented a state‑of‑the‑art machine vision anomaly detection system, achieving a 91.3% Pixel ROC score by customizing
