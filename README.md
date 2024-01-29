@@ -80,5 +80,16 @@ PaDiM and PatchCore models for a custom PCB dataset, ensuring precise anomaly de
 Digital Twin and Metaverse based system.
 - Developed an end‑to‑end pipeline for deploying an Anomaly Detection (AD) overseer app for Nokia Chennai Factory.
 Successfully deployed the AD App in real time.
-- Collaborated on efficient optimization strategies to improve PaDiM’s performance on the custom PCB dataset. 
+- Collaborated on efficient optimization strategies to improve PaDiM’s performance on the custom PCB dataset.
+
+**Research intern @ Indian Institute of Science (_Jul 2021 - Dec 2021_)**
+- Developed Constraint Aware Deep Learning models for resource allocation in Device to Device (D2D) communication and
+introduced Lagrangian‑based neural networks to solve optimization problems with constraints in a data‑driven manner to
+achieve an impressive 80 % accuracy.
+
+**<a><img src="./assets/img/nokia.png" alt="nookia" width="20"></a> Student intern @ Nokia (_Feb 2021 - Feb 2022_)**
+- Setup ROS, deployed gazebo 3D models for environment and turtlebot sim, created a map for Robot Navigation using teleop.
+- Object Detection using SSD Mobilenetv3 and YOLOv3(Python:OpenCV,Tensorflow, C++(basic), Linux)
+- Delivered functioning turtlebot that mapped areas of Nokia Bangalore
+- Team Awarded ”Best Student Bell Labs Research project” at 2021 Nokia University Conclave
 
