@@ -4,6 +4,7 @@ I am a passionate graduate student seeking a dynamic role in a forward‑thinkin
 and machine learning skills to advance innovations in computer vision. Striving to contribute clean code and robust software
 engineering capabilities, with a keen interest in opportunities within machine learning, computer vision, or data science.
 </br>
+
 ## Education
 
 | Degree                          | University                                     | Duration         |
