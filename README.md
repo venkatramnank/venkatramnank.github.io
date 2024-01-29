@@ -17,8 +17,6 @@ engineering capabilities, with a keen interest in opportunities within machine l
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" height="40" alt="torch logo"  />
   <img width="12" />
-  <img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original.svg" height="40" alt="docker logo"  />
-  <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="40" />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/opencv/opencv-original.svg" height="40" alt="opencv logo"  />
@@ -30,6 +28,7 @@ engineering capabilities, with a keen interest in opportunities within machine l
 <details>
 <summary>Other Skills (things I have **not** used extensively as above)</summary>
 - C++
+- Docker
 - MLFlow
 - ROS
 - Unity
