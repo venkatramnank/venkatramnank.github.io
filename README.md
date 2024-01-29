@@ -52,6 +52,7 @@ engineering capabilities, with a keen interest in opportunities within machine l
 - Deep learning
 - Reinforcement Learning
 - Robotics (ROS)
+
 <br>
 
 ## Experience
