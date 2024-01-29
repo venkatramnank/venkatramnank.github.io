@@ -15,36 +15,25 @@ engineering capabilities, with a keen interest in opportunities within machine l
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo"  />
   <img width="12" />
-  <img src="cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" height="40" alt="torch logo"  />
-  <img width="12" />
-  <img src="https://github.com/devicons/devicon/blob/master/icons/bash/bash-original.svg" height="40" alt="bash logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" height="40" alt="torch logo"  />
   <img width="12" />
   <img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original.svg" height="40" alt="docker logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="40" />
   <img width="12" />
-  <img src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg" height="40" alt="linux logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/opencv/opencv-original.svg" height="40" alt="opencv logo"  />
   <img width="12" />
-  <img src="https://github.com/devicons/devicon/blob/master/icons/opencv/opencv-original.svg" height="40" alt="opencv logo"  />
-  <img width="12" />
-  <img src="https://github.com/devicons/devicon/blob/master/icons/tensorflow/tensorflow-original.svg" height="40" alt="TF logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" height="40" alt="TF logo"  />
 
 </div>
 
 <details>
 <summary>Other Skills (things I have **not** used extensively as above)</summary>
-
 - C++
-
 - MLFlow
-
 - ROS
-
 - Unity
-
 - OpenAI Gym
-
-
 </details>
 
 ### Machine Learning (research) interests
