@@ -32,9 +32,9 @@ engineering capabilities, with a keen interest in opportunities within machine l
 <details>
 <summary>Other Skills (things I have **not** used extensively as above)</summary>
 - C++
-- ML Flow
-- Spark
-- GCP  
+- MlFlow
+-
+
 </details>
 
 ### Machine Learning (research) interests
