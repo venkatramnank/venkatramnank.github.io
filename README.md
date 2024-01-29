@@ -45,3 +45,16 @@ engineering capabilities, with a keen interest in opportunities within machine l
 - Robotics (ROS)
 
 ### Experience
+**Graduate Research Assistant @ Oregon State University (_Sep 2022 - Present_)**
+- Developed computer vision‑based trajectory prediction algorithms, achieving 92% accuracy in detecting physics violations
+across diverse scenarios.
+- Currently working on Sim to real experiments and point cloud based object detection (3D Vision). Working on TR3D (Point cloud
+3D object detection) for custom data (for all rotations across the axes).
+<details>
+  <summary>Experiments</summary>
+    -  Research focused on capturing inter‑object and object‑environment interactions at long ranges, exploring 3D and point cloud
+  versions.
+    - Leveraged the Region Proposal Interaction Network to enhance model performance, yielding remarkable results on our custom MCS DARPA dataset
+    - Used Motion Indeterminacy diffusion model for diverse trajectory prediction for intuitive physics experiments.
+</details>
+
