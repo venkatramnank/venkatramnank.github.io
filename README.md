@@ -3,14 +3,14 @@
 I am a passionate graduate student seeking a dynamic role in a forward‑thinking company, committed to applying programming
 and machine learning skills to advance innovations in computer vision. Striving to contribute clean code and robust software
 engineering capabilities, with a keen interest in opportunities within machine learning, computer vision, or data science.
-
+</br>
 ## Education
 
 | Degree                          | University                                     | Duration         |
 |---------------------------------|------------------------------------------------|------------------|
 | M.S., Computer Science          | Oregon State University                       | Sep 2022 - present |
 | B.Tech., Electronics and Communication | PES University                          | June 2022        |
-
+</br>
 
 ## Skills
 
@@ -26,7 +26,7 @@ engineering capabilities, with a keen interest in opportunities within machine l
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" height="40" alt="TF logo"  />
 
 </div>
-
+</br>
 <details markdown="1">
 <summary>Other Skills (things I have **not** used extensively as above)</summary>
 
@@ -39,7 +39,7 @@ engineering capabilities, with a keen interest in opportunities within machine l
 - Postgres
     
 </details>
-
+</br>
 
 
 
@@ -49,7 +49,7 @@ engineering capabilities, with a keen interest in opportunities within machine l
 - Deep learning
 - Reinforcement Learning
 - Robotics (ROS)
-
+</br>
 
 ## Experience
 
