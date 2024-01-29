@@ -12,6 +12,7 @@ engineering capabilities, with a keen interest in opportunities within machine l
 |---------------------------------|------------------------------------------------|------------------|
 | M.S., Computer Science          | Oregon State University                       | Sep 2022 - present |
 | B.Tech., Electronics and Communication | PES University                          | June 2022        |
+
 <br>
 
 ## Skills
