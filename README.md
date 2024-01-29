@@ -5,23 +5,26 @@ and machine learning skills to advance innovations in computer vision. Striving 
 engineering capabilities, with a keen interest in opportunities within machine learning, computer vision, or data science.
 
 ### Education
-
 | Degree                          | University                                     | Duration         |
 |---------------------------------|------------------------------------------------|------------------|
 | M.S., Computer Science          | Oregon State University                       | Sep 2022 - present |
 | B.Tech., Electronics and Communication | PES University                          | June 2022        |
 
+
 ### Skills
 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo" />
-<img width="20" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo" />
-<img width="20" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" height="40" alt="torch logo" />
-<img width="20" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/opencv/opencv-original.svg" height="40" alt="opencv logo" />
-<img width="20" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" height="40" alt="TF logo" />
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" height="40" alt="torch logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/opencv/opencv-original.svg" height="40" alt="opencv logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" height="40" alt="TF logo"  />
+
+</div>
 
 <details>
 <summary>Other Skills (things I have **not** used extensively as above)</summary>
@@ -35,7 +38,6 @@ engineering capabilities, with a keen interest in opportunities within machine l
 </details>
 
 ### Machine Learning (research) interests
-
 - Computer Vision (3D / 2D)
 - Deep learning
 - Reinforcement Learning
