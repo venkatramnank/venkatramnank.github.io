@@ -15,19 +15,19 @@ engineering capabilities, with a keen interest in opportunities within machine l
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo"  />
   <img width="12" />
-  <img src="https://github.com/devicons/devicon/blob/master/icons/pytorch/pytorch-original.svg" height="40" alt="bash logo"  />
+  <img src="https://github.com/devicons/devicon/blob/master/icons/pytorch/pytorch-original.svg" height="40" alt="torch logo"  />
   <img width="12" />
   <img src="https://github.com/devicons/devicon/blob/master/icons/bash/bash-original.svg" height="40" alt="bash logo"  />
   <img width="12" />
-  <img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original.svg" height="40" alt="bash logo"  />
+  <img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original.svg" height="40" alt="docker logo"  />
   <img width="12" />
-  <img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original.svg" height="40" alt="bash logo"  />
+  <img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original.svg" height="40" alt="postgres logo"  />
   <img width="12" />
-  <img src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg" height="40" alt="bash logo"  />
+  <img src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg" height="40" alt="linux logo"  />
   <img width="12" />
-  <img src="https://github.com/devicons/devicon/blob/master/icons/opencv/opencv-original.svg" height="40" alt="bash logo"  />
+  <img src="https://github.com/devicons/devicon/blob/master/icons/opencv/opencv-original.svg" height="40" alt="opencv logo"  />
   <img width="12" />
-  <img src="https://github.com/devicons/devicon/blob/master/icons/tensorflow/tensorflow-original.svg" height="40" alt="bash logo"  />
+  <img src="https://github.com/devicons/devicon/blob/master/icons/tensorflow/tensorflow-original.svg" height="40" alt="TF logo"  />
 
 </div>
 
