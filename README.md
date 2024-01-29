@@ -15,5 +15,5 @@ engineering capabilities, with a keen interest in opportunities within machine l
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/bash.svg" height="40" alt="bash logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/bash-original.svg" height="40" alt="bash logo"  />
 </div>
