@@ -30,10 +30,26 @@ engineering capabilities, with a keen interest in opportunities within machine l
   <img src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg" height="40" alt="bash logo"  />
 </div>
 
+<details>
+<summary>Other Skills</summary>
+
+### Section 1
+- Item 1
+- Item 2
+- Item 3
+
+### Section 2
+- Item 4
+- Item 5
+- Item 6
+
+</details>
+
 ### Machine Learning (research) interests
 - Computer Vision (3D / 2D)
 - Deep learning
 - Reinforcement Learning
+- Robotics (ROS)
 
 ### Experience
 
