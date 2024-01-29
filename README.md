@@ -56,9 +56,9 @@ engineering capabilities, with a keen interest in opportunities within machine l
 
 ## Experience
 
- **Graduate Research Assistant @ Oregon State University (_Sep 2022 - Present_)    <a>
+** <a>
   <img src="./assets/img/osu.png" alt="OSU" width="20">
-</a>**
+</a>Graduate Research Assistant @ Oregon State University (_Sep 2022 - Present_)**
 - Developed computer vision‑based trajectory prediction algorithms, achieving 92% accuracy in detecting physics violations across diverse scenarios for the Passive Violation Of Expectation challenge of
   <a href="https://www.machinecommonsense.com/">
   <img src="./assets/img/mcs.png" alt="MCS" width="20">
