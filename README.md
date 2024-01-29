@@ -61,7 +61,7 @@ engineering capabilities, with a keen interest in opportunities within machine l
    
 - Currently working on Sim to real experiments and point cloud based object detection (3D Vision). Working on TR3D (Point cloud 3D object detection) for custom data (for all rotations across the axes).
 
-  <details>
+  <details markdown="1">
   <summary>Experiments</summary>
   
   - Research focused on capturing inter‑object and object‑environment interactions at long ranges, exploring 3D and point cloud versions.
