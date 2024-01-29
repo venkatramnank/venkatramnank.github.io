@@ -1,4 +1,4 @@
-## Hi, I am Venkat !!
+                                                                                            ## Hi, I am Venkat !!
 
 I am a passionate graduate student seeking a dynamic role in a forward‑thinking company, committed to applying programming
 and machine learning skills to advance innovations in computer vision. Striving to contribute clean code and robust software
@@ -15,7 +15,7 @@ engineering capabilities, with a keen interest in opportunities within machine l
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo"  />
   <img width="12" />
-  <img src="https://github.com/devicons/devicon/blob/master/icons/pytorch/pytorch-original.svg" height="40" alt="torch logo"  />
+  <img src="cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" height="40" alt="torch logo"  />
   <img width="12" />
   <img src="https://github.com/devicons/devicon/blob/master/icons/bash/bash-original.svg" height="40" alt="bash logo"  />
   <img width="12" />
