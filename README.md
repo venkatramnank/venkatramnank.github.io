@@ -102,7 +102,7 @@ achieve an impressive 80 % accuracy.
         <p>A novel motion planning framework for general locomoting systems, beyond car-like robots, integrating dynamically feasible motion primitives using Deep Deterministic Policy Gradients (DDPG) reinforcement learning and an artificial potential field for accurate learning guidance.</p>
         
         <details>
-            <summary>Our major contributions are:</summary>
+            <summary>Major contributions are:</summary>
             <ol>
                 <li>Considering the motion planning problem beyond the path planning by considering the dynamically feasible motion primitives.</li>
                 <li>Implementing The motion planning framework for general locomoting systems beyond car-like robots.</li>
