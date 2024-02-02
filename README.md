@@ -112,3 +112,25 @@ achieve an impressive 80 % accuracy.
     </div>
 </div>
 
+<br>
+
+
+<div style="display:flex; align-items: center;">
+    <img src="./assets/img/mars.png" alt="Image" width="30" style="width:30%; margin-right: 10px;">
+    <div style="width:70%;">
+        <h4>Explainable AI for NASA Hirise Mars Project</h4>
+        <p>This project aims to build an explainable CNN model to classify Mars HiRISE images,
+providing insights into why the model makes certain classifications. By achieving interpretability, it will enhance trust in the
+model’s predictions and help identify biases and prejudices in its decisions.</p>
+        
+        <details>
+            <summary>Major contributions are:</summary>
+            <ol>
+                <li>Weighted sampler and Focal loss for extremely imbalanced data.</li>
+                <li>Implemented LIME, SHAP and GradCAM for explainability using heatmaps and class activation maps.</li>
+                <li>Covariate shift handles using illumination (openCV LUT) and batch normalization on modified ResNet.</li>
+            </ol>
+        </details>
+    </div>
+</div>
+
