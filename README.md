@@ -95,10 +95,10 @@ achieve an impressive 80 % accuracy.
 
 ## Academic Projects
 
-<div style="display:flex;">
-    <img src="./assets/img/rob_proj.png" alt="Image" width="30" style="width:50%;">
-    <div style="width:50%;">
-        **Learning‑Based Motion Planning for Arbitrary Locomotive Systems**
-        A novel motion planning framework for general locomoting systems, beyond car‑like robots, integrating dynamically feasible motion           primitives using Deep Deterministic Policy Gradients  (DDPG) reinforcement learning and an artificial potential field for accurate           learning guidance
+<div style="display:flex; align-items: center;">
+    <img src="./assets/img/rob_proj.png" alt="Image" width="30" style="width:30%;">
+    <div style="width:70%;">
+        <h2>Learning-Based Motion Planning for Arbitrary Locomotive Systems</h2>
+        <p>A novel motion planning framework for general locomoting systems, beyond car-like robots, integrating dynamically feasible motion primitives using Deep Deterministic Policy Gradients (DDPG) reinforcement learning and an artificial potential field for accurate learning guidance.</p>
     </div>
 </div>
