@@ -100,8 +100,9 @@ achieve an impressive 80 % accuracy.
     <div style="width:70%;">
         <h4>Learning-Based Motion Planning for Arbitrary Locomotive Systems</h4>
         <p>A novel motion planning framework for general locomoting systems, beyond car-like robots, integrating dynamically feasible motion primitives using Deep Deterministic Policy Gradients (DDPG) reinforcement learning and an artificial potential field for accurate learning guidance.</p>
-      <details>
-            <summary><Major contributions are:</summary>
+        
+        <details>
+            <summary>Our major contributions are:</summary>
             <ol>
                 <li>Considering the motion planning problem beyond the path planning by considering the dynamically feasible motion primitives.</li>
                 <li>Implementing The motion planning framework for general locomoting systems beyond car-like robots.</li>
@@ -110,3 +111,4 @@ achieve an impressive 80 % accuracy.
         </details>
     </div>
 </div>
+
