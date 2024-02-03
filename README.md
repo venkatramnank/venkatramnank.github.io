@@ -134,6 +134,8 @@ model’s predictions and help identify biases and prejudices in its decisions.<
     </div>
 </div>
 
+<br>
+
 <div style="display:flex; align-items: center;">
     <img src="./assets/img/document_multimodal.gif" alt="Image" width="700" style="width:30%; margin-right: 10px;">
     <div style="width:70%;">
