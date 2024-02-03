@@ -135,7 +135,7 @@ model’s predictions and help identify biases and prejudices in its decisions.<
 </div>
 
 <div style="display:flex; align-items: center;">
-    <img src="./assets/img/document_multimodal.gif" alt="Image" width="100" style="width:30%; margin-right: 10px;">
+    <img src="./assets/img/document_multimodal.gif" alt="Image" width="700" style="width:30%; margin-right: 10px;">
     <div style="width:70%;">
         <h4>Key Value Pair Extraction from Scanned Documents</h4>
         <p>The task of text extraction from documents is commonly targeted as a computer vision problem with text postprocessing done to ensure correctness. A sub-problem in that domain is more focused on identifying key-value pairs in a scanned document in order to populate in an exist-
