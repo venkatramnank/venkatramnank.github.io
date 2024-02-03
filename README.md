@@ -134,3 +134,35 @@ model’s predictions and help identify biases and prejudices in its decisions.<
     </div>
 </div>
 
+<div style="display:flex; align-items: center;">
+    <img src="./assets/img/document_multimodal.gif" alt="Image" width="30" style="width:30%; margin-right: 10px;">
+    <div style="width:70%;">
+        <h4>Explainable AI for NASA Hirise Mars Project</h4>
+        <p>The task of text extraction from documents is com-
+monly targeted as a computer vision problem with text post-
+processing done to ensure correctness. A sub-problem in
+
+that domain is more focused on identifying key-value pairs
+
+in a scanned document in order to populate in an exist-
+ing database. In this paper we propose a method for ex-
+tracting these key-value pairs from document images using
+
+both layout information and textual associations. Thus, this
+
+is a multi-modal approach in which we use image embed-
+dings from FastRCNN integrated with BERT model to com-
+bine text, layout, and image features. We create a different
+
+variant of positional embeddings and pretrain BERT using
+masking. This model is then fine-tuned for the downstream
+
+task of key-value pair extraction. This method has applica-
+tions in information extraction and quick document analysis
+
+tasks.</p>
+        
+        
+    </div>
+</div>
+
