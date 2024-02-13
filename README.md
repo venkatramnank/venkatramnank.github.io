@@ -1,8 +1,9 @@
 # Hi, I am Venkat !!
 
-I am a passionate graduate student seeking a dynamic role in a forward‑thinking company, committed to applying programming
-and machine learning skills to advance innovations in computer vision. Striving to contribute clean code and robust software
+I am a graduate student (M.S. in computer science) at Oregon State University. Striving to contribute clean code and robust software
 engineering capabilities, with a keen interest in opportunities within machine learning, computer vision, or data science.
+
+🌟 Looking for Full-Time Opportunities 🌟
 
 <br>
 
@@ -93,6 +94,24 @@ achieve an impressive 80 % accuracy.
 
 <br>
 
+## Publications
+
+- Rajasekar Mohan, K Venkat Ramnan, Manikandan J (2022). Predicting The Throughput Of Next Generation IEEE 802.11 WLANs In
+Dense Deployments.Procedia Computer Science, 203, 24‑31.[paper](https://www.sciencedirect.com/science/article/pii/S1877050922006111)
+- F. Wilhelmi, D. Góez, P. Soto, R. Vallés, M. Alfaifi, A. Algunayah, J. Martin‑Pérez, L. Girletti, R. Mohan, K. V. Ramnan. ”Machine
+Learning for Performance Prediction of Channel Bonding in Next‑Generation IEEE 802.11 WLANs.” arXiv preprint
+arXiv:2105.14219 (2021). [paper](https://www.itu.int/pub/S-JNL-VOL2.ISSUE4-2021-A06)
+- K.V. Ramnan , Karthik Seemakurthy, Uthayakumar G S, Curriculum Learning for Brain Tumor Segmentation ; Presented as Poster
+Presentation at the 24th International Conference on Medical Image Computation and Computer Assisted Intervention (MICCAI
+2021) Brain‑lesion Workshop (BrainLes) Featuring Brain Tumor Segmentation (BraTS) Challenge. [PPT and video](https://drive.google.com/drive/folders/12UADqrtV7B2u_3lP9jsrHgqdZX6msNMB)
+- Mohan, R., Ramnan, K., Manikandan, J. (2021). Machine Learning approaches for predicting Throughput of Very High and
+EXtreme High Throughput WLANs in dense deployments. In 2021 12th International Conference on Computing Communication
+and Networking Technologies (ICCCNT) (pp. 1‑6). [paper](https://ieeexplore.ieee.org/document/9580133)
+- Krishna, A., Arikutharam, V., Ramnan, K., Bharathi, H., Chandar, T. (2022). Dynamic Image Encryption using Neural Networks for
+Medical Images. In 2022 IEEE IAS Global Conference on Emerging Technologies (GlobConET) (pp. 739‑745). [paper](https://ieeexplore.ieee.org/document/9872401)
+
+<br>
+
 ## Academic Projects
 
 <div style="display:flex; align-items: center;">
@@ -144,4 +163,14 @@ model’s predictions and help identify biases and prejudices in its decisions.<
 ing database. In this project we propose a method for extracting these key-value pairs from document images usingboth layout information and textual associations. Thus, this is a multi-modal approach in which we use image embeddings from FastRCNN integrated with BERT model to combine text, layout, and image features. We create a different variant of positional embeddings and pretrain BERT using masking. This model is then fine-tuned for the downstream task of key-value pair extraction. This method has applications in information extraction and quick document analysis tasks.</p>   
     </div>
 </div>
+
+<div style="display:flex; align-items: center;">
+    <img src="./assets/img/curriculum_learning.png" alt="Image" width="700" style="width:30%; margin-right: 10px;">
+    <div style="width:70%;">
+        <h4>Curriculum Learning For Brain Tumor Segmentation</h4>
+        <p>Curriculum learning utilizes a novel scheduling algorithm based on standard deviation of class label distribution. Input data is represented as an array with dimensions (m samples, C channels, H height, W width), each with corresponding output labels. The standard deviation of class distribution reflects the difficulty of segmentation, with higher values indicating more challenging samples. Training begins with the most difficult examples, gradually incorporating easier ones in subsequent epochs. Results demonstrate that curriculum learning achieves convergence to full data training within 40 epochs, while also reducing training time by 30% compared to standard approaches. Presented as 2022 MICCAI poster.</p>   
+    </div>
+</div>
+
+
 
