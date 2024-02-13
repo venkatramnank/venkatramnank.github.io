@@ -96,19 +96,11 @@ achieve an impressive 80 % accuracy.
 
 ## Publications
 
-- Rajasekar Mohan, K Venkat Ramnan, Manikandan J (2022). Predicting The Throughput Of Next Generation IEEE 802.11 WLANs In
-Dense Deployments.Procedia Computer Science, 203, 24‑31.[paper](https://www.sciencedirect.com/science/article/pii/S1877050922006111)
-- F. Wilhelmi, D. Góez, P. Soto, R. Vallés, M. Alfaifi, A. Algunayah, J. Martin‑Pérez, L. Girletti, R. Mohan, K. V. Ramnan. ”Machine
-Learning for Performance Prediction of Channel Bonding in Next‑Generation IEEE 802.11 WLANs.” arXiv preprint
-arXiv:2105.14219 (2021). [paper](https://www.itu.int/pub/S-JNL-VOL2.ISSUE4-2021-A06)
-- K.V. Ramnan , Karthik Seemakurthy, Uthayakumar G S, Curriculum Learning for Brain Tumor Segmentation ; Presented as Poster
-Presentation at the 24th International Conference on Medical Image Computation and Computer Assisted Intervention (MICCAI
-2021) Brain‑lesion Workshop (BrainLes) Featuring Brain Tumor Segmentation (BraTS) Challenge. [PPT and video](https://drive.google.com/drive/folders/12UADqrtV7B2u_3lP9jsrHgqdZX6msNMB)
-- Mohan, R., Ramnan, K., Manikandan, J. (2021). Machine Learning approaches for predicting Throughput of Very High and
-EXtreme High Throughput WLANs in dense deployments. In 2021 12th International Conference on Computing Communication
-and Networking Technologies (ICCCNT) (pp. 1‑6). [paper](https://ieeexplore.ieee.org/document/9580133)
-- Krishna, A., Arikutharam, V., Ramnan, K., Bharathi, H., Chandar, T. (2022). Dynamic Image Encryption using Neural Networks for
-Medical Images. In 2022 IEEE IAS Global Conference on Emerging Technologies (GlobConET) (pp. 739‑745). [paper](https://ieeexplore.ieee.org/document/9872401)
+- Rajasekar Mohan, K Venkat Ramnan, Manikandan J (2022). Predicting The Throughput Of Next Generation IEEE 802.11 WLANs In Dense Deployments.Procedia Computer Science, 203, 24‑31.[paper](https://www.sciencedirect.com/science/article/pii/S1877050922006111)
+- F. Wilhelmi, D. Góez, P. Soto, R. Vallés, M. Alfaifi, A. Algunayah, J. Martin‑Pérez, L. Girletti, R. Mohan, K. V. Ramnan. ”Machine Learning for Performance Prediction of Channel Bonding in Next‑Generation IEEE 802.11 WLANs.” arXiv preprint arXiv:2105.14219 (2021). [paper](https://www.itu.int/pub/S-JNL-VOL2.ISSUE4-2021-A06)
+- K.V. Ramnan , Karthik Seemakurthy, Uthayakumar G S, Curriculum Learning for Brain Tumor Segmentation ; Presented as Poster Presentation at the 24th International Conference on Medical Image Computation and Computer Assisted Intervention (MICCAI 2021) Brain‑lesion Workshop (BrainLes) Featuring Brain Tumor Segmentation (BraTS) Challenge. [PPT and video](https://drive.google.com/drive/folders/12UADqrtV7B2u_3lP9jsrHgqdZX6msNMB)
+- Mohan, R., Ramnan, K., Manikandan, J. (2021). Machine Learning approaches for predicting Throughput of Very High and EXtreme High Throughput WLANs in dense deployments. In 2021 12th International Conference on Computing Communication and Networking Technologies (ICCCNT) (pp. 1‑6). [paper](https://ieeexplore.ieee.org/document/9580133)
+- Krishna, A., Arikutharam, V., Ramnan, K., Bharathi, H., Chandar, T. (2022). Dynamic Image Encryption using Neural Networks for Medical Images. In 2022 IEEE IAS Global Conference on Emerging Technologies (GlobConET) (pp. 739‑745). [paper](https://ieeexplore.ieee.org/document/9872401)
 
 <br>
 
