@@ -1,6 +1,6 @@
 title: Venkat Ramnan Kalyanakumar
 logo: /assets/img/PXL_20230826_173146533.MP~2.jpg
 # show_download: true
-remote_theme: cotes2020/jekyll-theme-chirpy/
+remote_theme: cotes2020/chirpy-starter
 plugins:
 - jekyll-remote-theme
